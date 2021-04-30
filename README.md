@@ -1,2 +1,2 @@
 # Inaugurator
-used for inaugurating websites in online presentations
+used for inaugurating websites in online presentations for Paradise Enterprise.
