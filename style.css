@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-color: black;
+    color: antiquewhite;
+}
+h1
+{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    color:blue;
+    font-size: 28px;
+}
